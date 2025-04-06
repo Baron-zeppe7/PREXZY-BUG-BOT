@@ -13,21 +13,21 @@ global.socialm = "IG : prexzy.ay" //ur github or insta name
 global.location = "Nigeria" //ur location
 
 //new
-global.botname = 'QUEEN NYX👸' //ur bot name
-global.ownernumber = '16582044119' //ur owner number
-global.ownername = '©Precious Ayomide' //ur owner name
+global.botname = 'AF JOKER ' //ur bot name
+global.ownernumber = '237693132795' //ur owner number
+global.ownername = '©AF JOKER' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.wagc = "https://chat.whatsapp.com/EletTHoIrrj2CCPFYfmdVD" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.idch = '120363322892680943@newsletter'
 global.themeemoji = '🪀'
 global.wm = "NYX👸"
 global.botscript = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
-global.packname = "Queen Nyx👸"
-global.author = "Precious Ayomide"
-global.creator = "2349159895444@s.whatsapp.net"
+global.packname = "AF JOKER"
+global.author = "Une paire de fesses peut changer un homme"
+global.creator = "237693132795@s.whatsapp.net"
 global.xprefix = '.'
 global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.premium = ["237693132795"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
